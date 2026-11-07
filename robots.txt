@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cqsfw.github.io/sitemap.xml
